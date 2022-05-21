@@ -1,0 +1,7 @@
+flask
+requests
+python-dateutil
+VaaniNLP
+markdown
+pathlib
+flask-cors
